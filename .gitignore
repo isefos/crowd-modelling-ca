@@ -1,0 +1,9 @@
+.idea
+.ipynb_checkpoints
+__pycache__
+*.pdf
+dev-test.py
+notebooks/figures
+.[Vv]scode/
+data/ex2/vadere-project/output
+notebooks/log.out
